@@ -1,6 +1,10 @@
 # Add  code here!
 def prime?(num)
 
+  if num * num = num.abs
+    return false
+  end
+  
   arr = Array (2...num.abs)
 
   arr.each do |n|
